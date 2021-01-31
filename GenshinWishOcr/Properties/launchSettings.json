@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "GenshinWishOcr": {
+      "commandName": "Project",
+      "commandLineArgs": "H:\\WhaleWatch\\PNGSequence\\ H:\\WhaleWatch\\test.csv .75"
+    }
+  }
+}
